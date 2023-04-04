@@ -30,4 +30,11 @@ nav a{
 
 body{
     font-family: 'Timmana', sans-serif;
+    margin: 30 30 30 30;
 }
+
+.social-media-links.horizontal li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
