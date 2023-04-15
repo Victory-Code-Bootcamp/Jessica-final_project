@@ -26,7 +26,7 @@ nav a{
 body{
     font-family: 'Timmana', sans-serif;
     margin: 30 30 30 30;
-}
+    }
 
 .social-media-links.horizontal li {
     display: inline-block;
@@ -39,6 +39,7 @@ form {
 .container {
     padding: 20px;
     background-color: #f1f1f1;
+    text-align: center;
 }
 
 input[type=text],
